@@ -30,6 +30,8 @@ public class HelloController : ControllerBase
 EOF
 ```
 
+## Server
+
 ```bash
 cat <<'EOF' > Program.cs
 var builder = WebApplication.CreateBuilder(args);
