@@ -12,6 +12,7 @@ brew install --cask dotnet-sdk
 cd 
 cd ws
 mkdir dotnet-backend && cd dotnet-backend
+mkdir Controllers
 ```
 
 ## Controller
