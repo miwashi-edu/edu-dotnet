@@ -11,7 +11,7 @@ brew install --cask dotnet-sdk
 ```bash ~
 cd 
 cd ws
-mkdir dotnet-backend && cd dotnet-backend
+dotnet new webapi -n dotnet-backend
 mkdir Controllers
 ```
 
