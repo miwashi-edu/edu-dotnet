@@ -54,6 +54,14 @@ app.Run();
 EOF
 ```
 
+## Run
+
 ```bash
 dotnet run
+```
+
+## Visit
+
+```bash
+http://localhost:5081/hello
 ```
